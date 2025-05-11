@@ -1,0 +1,11 @@
+com\wipro\mysql_security\entity\Users.class
+com\wipro\mysql_security\repository\RolesRepository.class
+com\wipro\mysql_security\entity\Roles.class
+com\wipro\mysql_security\model\MyUserDetails.class
+com\wipro\mysql_security\service\MyUserDetailsServices.class
+com\wipro\mysql_security\service\UserCreationService.class
+com\wipro\mysql_security\repository\UserRepository.class
+com\wipro\mysql_security\UserApplication.class
+com\wipro\mysql_security\config\SpringSecurityConfig.class
+com\wipro\mysql_security\controller\UserController.class
+com\wipro\mysql_security\model\UserRequest.class
